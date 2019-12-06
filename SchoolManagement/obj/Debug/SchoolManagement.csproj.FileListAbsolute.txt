@@ -1,0 +1,11 @@
+D:\E_Marketing\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+D:\E_Marketing\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+D:\E_Marketing\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+D:\E_Marketing\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+D:\E_Marketing\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form1.resources
+D:\E_Marketing\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+D:\E_Marketing\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+D:\E_Marketing\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+D:\E_Marketing\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+D:\E_Marketing\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.login.resources
+D:\E_Marketing\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.changesetting.resources
